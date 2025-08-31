@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "d1-rental-tracker"
-  }
+    "default": "d1-rental-tracker",
+    "staging": "d1-rental-tracker"
+  },
+  "targets": {},
+  "etags": {}
 }
